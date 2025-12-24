@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "enchanted": {
+      "trigger": "minecraft:enchanted_item",
+      "conditions": {
+        "item": {}
+      }
+    }
+  },
+  "rewards": {
+    "function": "crafting_chaos:modules/enchantment/on_enchant"
+  }
+}

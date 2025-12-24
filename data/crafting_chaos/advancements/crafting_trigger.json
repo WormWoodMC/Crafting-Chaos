@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "has_crafting_table": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:crafting_table"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["has_crafting_table"]
+  ],
+  "rewards": {
+    "function": "crafting_chaos:modules/recipe/crafting_detected"
+  }
+}

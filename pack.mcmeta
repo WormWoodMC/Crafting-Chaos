@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 41,
+    "description": [
+      {
+        "text": "Crafting Chaos v1.0.0\n",
+        "color": "gold"
+      },
+      {
+        "text": "by quefep\n",
+        "color": "white"
+      },
+      {
+        "text": "Randomizes recipes, enchantments, and loot!",
+        "color": "gray"
+      },
+      {
+        "text": "\n",
+        "color": "gray"
+      },
+      {
+        "text": "For WormWoodMC",
+        "color": "dark_gray",
+        "italic": true
+      }
+    ]
+  }
+}
