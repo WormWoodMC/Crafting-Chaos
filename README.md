@@ -2,14 +2,14 @@
 
 <div align="center">
 
-![Crafting Chaos Banner](https://img.shields.io/badge/Crafting_Chaos-1.0.0-brightgreen?style=for-the-badge)
+![Crafting Chaos Banner](https://img.shields.io/badge/Crafting_Chaos-2.0.0-blue?style=for-the-badge)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20%2B-orange?style=for-the-badge&logo=minecraft)
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/WormWoodMC/Crafting-Chaos/total?style=for-the-badge&logo=github)
 
 *Turn your Minecraft world upside down with unpredictable crafting, fishing, and enchanting!*
 
-[📖 Documentation](docs) • [🚀 Quick Install](docs/installation.md) • [⚙️ Configuration](docs/configuration.md) • [🐛 Issues](https://github.com/WormWoodMC/Crafting-Chaos/issues)
+[📂 Index](INDEX.md) • [📝 Changelog](CHANGELOG.md) • [🐛 Issues](https://github.com/WormWoodMC/Crafting-Chaos/issues)
 
 </div>
 
@@ -139,11 +139,8 @@ Every contribution helps make Crafting Chaos better!
 
 ## 📚 Documentation
 
-- 📖 [Installation Guide](docs/installation.md)
-- ⚙️ [Configuration](docs/configuration.md)
-- 🎯 [Module Overview](docs/modules.md)
-- 🔧 [Troubleshooting](docs/troubleshooting.md)
-- 📝 [Changelog](docs/changelog.md)
+- 📂 [Repository Index](INDEX.md)
+- 📝 [Changelog](CHANGELOG.md)
 
 ---
 
